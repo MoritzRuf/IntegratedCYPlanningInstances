@@ -1,0 +1,41 @@
+Id,dest,cap,arr,dep,inb,type
+0,2,40,242,0,1,Inbound train with special treatment.
+1,2,40,255,0,1,Inbound train with special treatment.
+2,1,40,527,0,1,Inbound train with special treatment.
+3,2,40,19,0,1,Inbound train with special treatment.
+4,1,40,145,0,1,Inbound train with special treatment.
+5,2,40,187,0,1,Inbound train with special treatment.
+6,2,40,388,0,1,Inbound train with special treatment.
+7,1,40,390,0,1,Inbound train with special treatment.
+8,1,40,258,0,1,Inbound train with special treatment.
+9,2,40,485,0,1,Inbound train with special treatment.
+10,1,40,487,0,1,Inbound train with special treatment.
+11,1,40,33,0,1,Inbound train with special treatment.
+12,1,40,50,0,1,Inbound train with special treatment.
+13,1,40,251,0,1,Inbound train with special treatment.
+14,2,40,424,0,1,Inbound train with special treatment.
+15,2,40,386,0,1,Inbound train with special treatment.
+16,1,40,584,0,1,Inbound train with special treatment.
+17,2,40,559,0,1,Inbound train with special treatment.
+18,1,40,402,0,1,Inbound train with special treatment.
+19,1,40,534,0,1,Inbound train with special treatment.
+20,1,40,0,1347,0,Outbound train that leaves the yard from the departure tracks.
+21,1,40,0,1107,0,Outbound train that leaves the yard from the departure tracks.
+22,1,40,0,1093,0,Outbound train that leaves the yard from the departure tracks.
+23,1,40,0,883,0,Outbound train that leaves the yard from the departure tracks.
+24,2,40,0,1357,0,Outbound train that leaves the yard from the departure tracks.
+25,1,40,0,1002,0,Outbound train that leaves the yard from the departure tracks.
+26,1,40,0,1390,0,Outbound train that leaves the yard from the departure tracks.
+27,2,40,0,1404,0,Outbound train that leaves the yard from the departure tracks.
+28,2,40,0,1202,0,Outbound train that leaves the yard from the departure tracks.
+29,1,40,0,986,0,Outbound train that leaves the yard from the departure tracks.
+30,2,40,0,930,0,Outbound train that leaves the yard from the departure tracks.
+31,2,40,0,1398,0,Outbound train that leaves the yard from the departure tracks.
+32,2,40,0,1337,0,Outbound train that leaves the yard from the departure tracks.
+33,2,40,0,1213,0,Outbound train that leaves the yard from the departure tracks.
+34,1,40,0,1235,0,Outbound train that leaves the yard from the departure tracks.
+35,2,40,0,1077,0,Outbound train that leaves the yard from the departure tracks.
+36,2,40,0,862,0,Outbound train that leaves the yard from the departure tracks.
+37,1,40,0,1053,0,Outbound train that leaves the yard from the departure tracks.
+38,1,40,0,1325,0,Outbound train that leaves the yard from the departure tracks.
+39,2,40,0,814,0,Outbound train that leaves the yard from the departure tracks.
