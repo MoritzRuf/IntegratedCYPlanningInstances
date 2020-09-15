@@ -1,0 +1,41 @@
+Id,dest,cap,arr,dep,inb,type
+0,5,40,204,0,1,Inbound train without any special treatment.
+1,4,40,550,0,1,Inbound train without any special treatment.
+2,5,40,508,0,1,Inbound train without any special treatment.
+3,5,40,437,0,1,Inbound train without any special treatment.
+4,4,40,389,0,1,Inbound train without any special treatment.
+5,4,40,264,0,1,Inbound train without any special treatment.
+6,3,40,585,0,1,Inbound train without any special treatment.
+7,1,40,148,0,1,Inbound train without any special treatment.
+8,5,40,357,0,1,Inbound train without any special treatment.
+9,1,40,398,0,1,Inbound train without any special treatment.
+10,2,40,104,0,1,Inbound train without any special treatment.
+11,5,40,415,0,1,Inbound train without any special treatment.
+12,5,40,173,0,1,Inbound train without any special treatment.
+13,1,40,59,0,1,Inbound train without any special treatment.
+14,4,40,237,0,1,Inbound train without any special treatment.
+15,3,40,148,0,1,Inbound train without any special treatment.
+16,3,40,109,0,1,Inbound train without any special treatment.
+17,4,40,34,0,1,Inbound train without any special treatment.
+18,2,40,190,0,1,Inbound train without any special treatment.
+19,4,40,332,0,1,Inbound train without any special treatment.
+20,4,40,0,1183,0,Outbound train that leaves the yard from the classification tracks.
+21,5,40,0,880,0,Outbound train that leaves the yard from the classification tracks.
+22,4,40,0,953,0,Outbound train that leaves the yard from the classification tracks.
+23,2,40,0,966,0,Outbound train that leaves the yard from the classification tracks.
+24,5,40,0,865,0,Outbound train that leaves the yard from the classification tracks.
+25,3,40,0,988,0,Outbound train that leaves the yard from the classification tracks.
+26,2,40,0,1186,0,Outbound train that leaves the yard from the classification tracks.
+27,2,40,0,967,0,Outbound train that leaves the yard from the classification tracks.
+28,5,40,0,1232,0,Outbound train that leaves the yard from the classification tracks.
+29,3,40,0,1269,0,Outbound train that leaves the yard from the classification tracks.
+30,1,40,0,1096,0,Outbound train that leaves the yard from the classification tracks.
+31,4,40,0,1270,0,Outbound train that leaves the yard from the classification tracks.
+32,2,40,0,1051,0,Outbound train that leaves the yard from the classification tracks.
+33,3,40,0,1273,0,Outbound train that leaves the yard from the classification tracks.
+34,4,40,0,1027,0,Outbound train that leaves the yard from the classification tracks.
+35,1,40,0,1188,0,Outbound train that leaves the yard from the classification tracks.
+36,1,40,0,1285,0,Outbound train that leaves the yard from the classification tracks.
+37,5,40,0,916,0,Outbound train that leaves the yard from the classification tracks.
+38,3,40,0,1237,0,Outbound train that leaves the yard from the classification tracks.
+39,1,40,0,1390,0,Outbound train that leaves the yard from the classification tracks.
