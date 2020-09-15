@@ -1,0 +1,11 @@
+Id,dest,cap,arr,dep,inb,type
+0,5,40,475,0,1,Inbound train with special treatment.
+1,4,40,416,0,1,Inbound train with special treatment.
+2,5,40,315,0,1,Inbound train with special treatment.
+3,2,40,421,0,1,Inbound train with special treatment.
+4,2,40,497,0,1,Inbound train with special treatment.
+5,4,40,0,1337,0,Outbound train that leaves the yard from the departure tracks.
+6,2,40,0,845,0,Outbound train that leaves the yard from the departure tracks.
+7,1,40,0,952,0,Outbound train that leaves the yard from the departure tracks.
+8,3,40,0,1126,0,Outbound train that leaves the yard from the departure tracks.
+9,5,40,0,1081,0,Outbound train that leaves the yard from the departure tracks.
